@@ -11,15 +11,15 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 ## Contents
 
+- [Cluster](Cluster.md)
+- [Cluster Architecture, Installation & Configuration 25%](Installation.md)
+- [Workloads & Scheduling 15%](Scheduling.md)
+- [Services & Networking 20%](Networking.md)
 - [Scheduling - 5%](Scheduling.md)
-- [Logging/Monitoring - 5%](Logging&Monitoring.md)
-- [Application Lifecycle Management - 8%](ApplicationLifecycleManagement.md)
-- [Cluster - 11%](Cluster.md)
-- [Storage - 7%](Storage.md)
-- [Networking - 11%](Networking.md)
-- [Installation, Configuration & Validation - 12%](Installation.md)
-- [Troubleshooting - 10%](Troubleshooting.md)
-
+- [Application Lifecycle Management](ApplicationLifecycleManagement.md)
+- [Storage 10%](Storage.md)
+- [Troubleshooting 30%](Troubleshooting.md)
+- [Logging/Monitoring](Logging&Monitoring.md)
 
 
 I have provided an example folder of sample YAML files for various different exercises so that you can use these as templates.
