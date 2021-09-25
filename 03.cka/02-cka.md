@@ -76,74 +76,62 @@ Resource limits and Quality of Service classes
 
 ```
 
-## 5% - Logging/Monitoring
- 
-- [ ] Understand how to monitor all cluster components.
-- [ ] Understand how to monitor applications.
-- [ ] Manage cluster component logs.
-- [ ] Manage application logs.
+### [CKA exam curriculum](https://www.cncf.io/certification/cka/)
 
-## 8% - Application Lifecycle Management
+```
+## 25% - Installation, Configuration & Validation
 
-- [ ] Understand Deployments and how to perform rolling updates and rollbacks.
-- [ ] Know various ways to configure applications.
-- [ ] Know how to scale applications.
-- [ ] Understand the primitives necessary to create a self-healing application.
-
-## 11% - Cluster Maintenance
-
-- [ ] Understand Kubernetes cluster upgrade process.
-- [ ] Facilitate operating system upgrades.
-- [ ] Implement backup and restore methodologies.
+- [ ] Manage role based access control (RBAC)
+- [ ] Use Kubeadm to install a basic cluster
+- [ ] Manage a highly-available Kubernetes cluster
+- [ ] Provision underlying infrastructure to deploy a Kubernetes cluster
+- [ ] Perform a version upgrade on a Kubernetes cluster using Kubeadm
+- [ ] Implement etcd backup and restore
 
 
-## 7% - Storage
+## 15%  Workloads & Scheduling
 
-- [ ] Understand persistent volumes and know how to create them.
-- [ ] Understand access modes for volumes.
-- [ ] Understand persistent volume claims primitive.
-- [ ] Understand Kubernetes storage objects.
-- [ ] Know how to configure applications with persistent storage.
+- [ ]  Understand deployments and how to perform rolling update and rollbacks
+- [ ] Use ConfigMaps and Secrets to configure applications
+- [ ] Know how to scale applications
+- [ ] Understand the primitives used to create robust, self-healing, application deployments
+- [ ] Understand how resource limits can affect Pod scheduling
+- [ ] Awareness of manifest management and common templating tools
 
-## 10% - Troubleshooting
+
+## 20%  Services & Networking
+
+- [ ] Understand host networking configuration on the cluster nodes
+- [ ] Understand connectivity between Pods
+- [ ] Understand ClusterIP, NodePort, LoadBalancer service types and endpoints
+- [ ] Know how to use Ingress controllers and Ingress resources
+- [ ] Know how to configure and use CoreDNS
+- [ ] Choose an appropriate container network interface plugin
+
+## 30% - Troubleshooting
 
 - [ ] Troubleshoot application failure.
 - [ ] Troubleshoot control plane failure.
 - [ ] Troubleshoot worker node failure.
 - [ ] Troubleshoot networking.
+- [ ] Evaluate cluster and node logging
+- [ ] Understand how to monitor applications
+- [ ] Manage container stdout & stderr logs
+- [ ] Troubleshoot application failure
+- [ ] Troubleshoot cluster component failure
+- [ ] Troubleshoot networking
 
-## 19% - Core Concepts
+## 10% - Storage
 
-- [ ] Understand the Kubernetes API primitives.
-- [ ] Understand the Kubernetes cluster architecture.
-- [ ] Understand Services and other network primitives.
-
-## 11% - Networking
-
-- [ ] Understand the networking configuration on the cluster nodes.
-- [ ] Understand Pod networking concepts.
-- [ ] Understand service networking.
-- [ ] Deploy and configure network load balancer.
-- [ ] Know how to use Ingress rules.
-- [ ] Know how to configure and use the cluster DNS.
-- [ ] Understand CNI.
-
-## 12% - Installation, Configuration & Validation
-
-- [ ] Design a Kubernetes cluster.
-- [ ] Install Kubernetes masters and nodes, including the use of TLS bootstrapping.
-- [ ] Configure secure cluster communications.
-- [ ] Configure a Highly-Available Kubernetes cluster.
-- [ ] Know where to get the Kubernetes release binaries.
-- [ ] Provision underlying infrastructure to deploy a Kubernetes cluster.
-- [ ] Choose a network solution.
-- [ ] Choose your Kubernetes infrastructure configuration.
-- [ ] Run end-to-end tests on your cluster.
-- [ ] Analyse end-to-end tests results.
-- [ ] Run Node end-to-end tests.
+- [ ] Understand storage classes, persistent volumes
+- [ ] Understand volume mode, access modes and reclaim policies for volumes
+- [ ] Understand persistent volume claims primitive
+- [ ] Know how to configure applications with persistent storage
 
 
-## 5% - Scheduling
+
+
+## Scheduling
 
 - [x] [Use label selectors to schedule Pods.](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/)
   * [`nodeSelector`](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#nodeselector)
