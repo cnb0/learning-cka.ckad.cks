@@ -172,7 +172,7 @@ Resource limits and Quality of Service classes
     > 2. you can indicate that the rule is “soft”/”preference” rather than a hard requirement, so if the scheduler can’t satisfy it, the pod will still be scheduled
     > 3. you can constrain against labels on other pods running on the node (or other topological domain), rather than against labels on the node itself, which allows rules about which pods can and cannot be co-located
 
-    * [Node affinity (beta feature)](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#node-affinity-beta-feature)
+    * [Node affinity](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#node-affinity-beta-feature)
 
       > Node affinity is conceptually similar to `nodeSelector` – it allows you to constrain which nodes your pod is eligible to schedule on, based on labels on the node.
       > There are currently two types of node affinity, called 
