@@ -12,7 +12,7 @@ You will be evaluated on 5 topics around Kubernetes administration:
 - [Cluster Architecture, Installation & Configuration 25%](https://github.com/cnb0/CKA-practice-exercises/blob/CKA-v1.20/cluster-architecture-installation-configuration.md)
 - [Workloads & Scheduling 15%](https://github.com/cnb0/CKA-practice-exercises/blob/CKA-v1.20/workloads-scheduling.md)
 - [Services & Networking 20%](https://github.com/cnb0/CKA-practice-exercises/blob/CKA-v1.20/services-networking.md)
-- [Storage 10%](https://github.com/alijahnas/CKA-practice-exercises/blob/CKA-v1.20/storage.md)
+- [Storage 10%](https://github.com/cnb0/CKA-practice-exercises/blob/CKA-v1.20/storage.md)
 - [Troubleshooting 30%](https://github.com/cnb0/CKA-practice-exercises/blob/CKA-v1.20/troubleshooting.md)
 
 ## Useful official documentation:
