@@ -7,7 +7,7 @@
   two (2) hours to complete.
 
 
-### Kubernetes certification 
+### k8s certification 
 
 0. [CKA CKAD Exam Curriculum](https://github.com/cncf/curriculum)
 1. [CKA](https://www.cncf.io/certification/cka/)
