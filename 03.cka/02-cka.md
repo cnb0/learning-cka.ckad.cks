@@ -269,13 +269,11 @@ Resource limits and Quality of Service classes
   * [Writing a DaemonSet Spec](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/#writing-a-daemonset-spec)
 
     > ```yaml
-    > apiVersion: apps/v1beta2 # for versions before 1.8.0 use extensions/v1beta1
+    > apiVersion: apps/v1 
     > kind: DaemonSet
     > ```
 
     > A Pod Template in a DaemonSet must have a `RestartPolicy` equal to `Always`, or be unspecified, which defaults to `Always`.
-
-    > As of Kubernetes 1.8, you must specify a pod selector that matches the labels of the `.spec.template`.
 
   * [How Daemon Pods are Scheduled](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/#how-daemon-pods-are-scheduled)
 
