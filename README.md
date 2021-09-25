@@ -13,12 +13,12 @@
 1. [CKA](https://www.cncf.io/certification/cka/)
 2. [CKAD](https://www.cncf.io/certification/cka/)
 
-### k8s Exam Registartion
+### k8s exam Registartion
 0. [CKA Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 1. [CKAD Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 
-### k8s Certification FAQs
+### k8s certification faqs
 
   - [cka ckad faqs](https://docs.linuxfoundation.org/tc-docs/certification/faq-cka-ckad-cks)
 
