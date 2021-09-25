@@ -1,6 +1,6 @@
 ## learning-cka.ckad
 
-### Exam details
+### k8s exam details
 
 - The online, proctored, performance-based test consists of a set of performance-based items (problems) 
   to be solved in a command line using kubectl and linux cli and is expected to take approximately
@@ -13,7 +13,7 @@
 1. [CKA](https://www.cncf.io/certification/cka/)
 2. [CKAD](https://www.cncf.io/certification/cka/)
 
-### k8s exam Registartion
+### k8s exam registartion
 0. [CKA Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 1. [CKAD Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
