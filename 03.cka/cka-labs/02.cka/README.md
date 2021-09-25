@@ -2,16 +2,16 @@
  
 
 You will be evaluated on 10 topics around Kubernetes administation:
-- [Application Lifecycle Management 8%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/application-lifecycle-management.md)
-- [Installation, Configuration & Validation 12%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/installation-configuration-validation.md)
-- [Core Concepts 19%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/core-concepts.md)
-- [Networking 11%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/networking.md)
-- [Scheduling 5%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/scheduling.md)
-- [Security 12%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/security.md)
-- [Cluster Maintenance 11%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/cluster-maintenance.md)
-- [Logging / Monitoring 5%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/logging-monitoring.md)
-- [Storage 7%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/storage.md)
-- [Troubleshooting 10%](https://github.com/alijahnas/CKA-practice-exercises/blob/master/troubleshooting.md)
+- [Application Lifecycle Management](https://github.com/alijahnas/CKA-practice-exercises/blob/master/application-lifecycle-management.md)
+- [Installation, Configuration & Validation ](https://github.com/alijahnas/CKA-practice-exercises/blob/master/installation-configuration-validation.md)
+- [Core Concepts ](https://github.com/alijahnas/CKA-practice-exercises/blob/master/core-concepts.md)
+- [Networking ](https://github.com/alijahnas/CKA-practice-exercises/blob/master/networking.md)
+- [Scheduling ](https://github.com/alijahnas/CKA-practice-exercises/blob/master/scheduling.md)
+- [Security](https://github.com/alijahnas/CKA-practice-exercises/blob/master/security.md)
+- [Cluster Maintenance ](https://github.com/alijahnas/CKA-practice-exercises/blob/master/cluster-maintenance.md)
+- [Logging / Monitoring](https://github.com/alijahnas/CKA-practice-exercises/blob/master/logging-monitoring.md)
+- [Storage ](https://github.com/alijahnas/CKA-practice-exercises/blob/master/storage.md)
+- [Troubleshooting](https://github.com/alijahnas/CKA-practice-exercises/blob/master/troubleshooting.md)
 
 ## Useful official documentation:
 
