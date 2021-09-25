@@ -1,4 +1,4 @@
-# Networking (11%)
+# Networking  
 
 kubernetes.io > Documentation > Reference > kubectl CLI > [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
