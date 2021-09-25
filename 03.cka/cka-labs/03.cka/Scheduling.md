@@ -1,4 +1,4 @@
-# Scheduling (5%)
+# Scheduling  
 
 kubernetes.io > Documentation > Reference > kubectl CLI > [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
