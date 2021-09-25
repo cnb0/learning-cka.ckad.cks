@@ -1,4 +1,4 @@
-# Application Lifecycle Management (8%)
+# Application Lifecycle Management  
 
 kubernetes.io > Documentation > Reference > kubectl CLI > [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
