@@ -7,7 +7,7 @@
 
 ## k8s Exam Registartion
 0. [CKA Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-1. [CKAD Exam]()
+1. [CKAD Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 
 ## k8s Certification FAQs
