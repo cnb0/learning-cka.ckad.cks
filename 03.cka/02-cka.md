@@ -76,10 +76,10 @@ Resource limits and Quality of Service classes
 
 ```
 
-### [CKA exam curriculum](https://www.cncf.io/certification/cka/)
+## [CKA exam curriculum](https://www.cncf.io/certification/cka/)
 
-```
-## 25% - Installation, Configuration & Validation
+ 
+### 25% - Installation, Configuration & Validation
 
 - [ ] Manage role based access control (RBAC)
 - [ ] Use Kubeadm to install a basic cluster
@@ -89,7 +89,7 @@ Resource limits and Quality of Service classes
 - [ ] Implement etcd backup and restore
 
 
-## 15%  Workloads & Scheduling
+### 15%  Workloads & Scheduling
 
 - [ ]  Understand deployments and how to perform rolling update and rollbacks
 - [ ] Use ConfigMaps and Secrets to configure applications
@@ -99,7 +99,7 @@ Resource limits and Quality of Service classes
 - [ ] Awareness of manifest management and common templating tools
 
 
-## 20%  Services & Networking
+### 20%  Services & Networking
 
 - [ ] Understand host networking configuration on the cluster nodes
 - [ ] Understand connectivity between Pods
@@ -108,7 +108,7 @@ Resource limits and Quality of Service classes
 - [ ] Know how to configure and use CoreDNS
 - [ ] Choose an appropriate container network interface plugin
 
-## 30% - Troubleshooting
+### 30% - Troubleshooting
 
 - [ ] Troubleshoot application failure.
 - [ ] Troubleshoot control plane failure.
@@ -121,14 +121,12 @@ Resource limits and Quality of Service classes
 - [ ] Troubleshoot cluster component failure
 - [ ] Troubleshoot networking
 
-## 10% - Storage
+### 10% - Storage
 
 - [ ] Understand storage classes, persistent volumes
 - [ ] Understand volume mode, access modes and reclaim policies for volumes
 - [ ] Understand persistent volume claims primitive
 - [ ] Know how to configure applications with persistent storage
-
-
 
 
 ## Scheduling
