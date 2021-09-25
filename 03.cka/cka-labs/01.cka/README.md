@@ -6,14 +6,14 @@ A set of exercises that will help you to prepare for the [Certified Kubernetes A
 
 ## Contents
 
-- [Scheduling - 5%](Scheduling.md)
-- [Logging/Monitoring - 5%](Logging&Monitoring.md)
-- [Application Lifecycle Management - 8%](ApplicationLifecycleManagement.md)
-- [Cluster - 11%](Cluster.md)
-- [Storage - 7%](Storage.md)
-- [Networking - 11%](Networking.md)
-- [Installation, Configuration & Validation - 12%](Installation.md)
-- [Troubleshooting - 10%](Troubleshooting.md)
+- [Scheduling ](Scheduling.md)
+- [Logging/Monitoring](Logging&Monitoring.md)
+- [Application Lifecycle Management ](ApplicationLifecycleManagement.md)
+- [Cluster](Cluster.md)
+- [Storage](Storage.md)
+- [Networking](Networking.md)
+- [Installation, Configuration & Validation](Installation.md)
+- [Troubleshooting](Troubleshooting.md)
 
 
 - Example folder of sample YAML files for various different exercises so that you can use these as templates.
