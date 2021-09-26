@@ -1,4 +1,4 @@
-# Exercise 7 - health probes
+# Exercise 8 - health probes
 
 In this exercise, you will create a ResourceQuota with specific CPU and memory limits for a new namespace. Pods created in the namespace will have to adhere to those limits. 
 
