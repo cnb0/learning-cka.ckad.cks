@@ -1,4 +1,3 @@
-# Exercise 12
 
 In this exercise, you will create a Deployment with multiple replicas. After inspecting the Deployment, you will update its parameters. Furthermore, you will use the rollout history to roll back to a previous revision.
 
