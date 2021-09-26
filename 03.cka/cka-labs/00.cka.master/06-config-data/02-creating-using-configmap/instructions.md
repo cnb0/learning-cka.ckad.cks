@@ -1,4 +1,4 @@
-# Exercise 2
+# # Exercise 6 - ConfigMap
 
 In this exercise, you will first create a ConfigMap from predefined values in a file. Later, you'll create a Pod, consume the ConfigMap as environment variables and print out its values from within the container.
 
