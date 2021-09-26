@@ -65,7 +65,7 @@ Since September 1st, 2020 CNCF made some changes on the CKA program. I will high
       
  2. Duration of exam:
  
-    - From 3 to 2 hours.
+    - From 2 hours.
  
  3. Software Version:
   
