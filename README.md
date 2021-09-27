@@ -1,11 +1,14 @@
 ## learning-cka.ckad
 
+
 ### k8s exam details
 
 - The online, proctored, performance-based test consists of a set of performance-based items (problems) 
   to be solved in a command line using kubectl and linux cli and is expected to take approximately
   two (2) hours to complete.
 
+### k8s components         
+ ![alt text](./04.k8s.diagrams/Kubernetes/Architecture_Detailed_Large.png "kubernetes architecture")
 
 ### k8s certification 
 
