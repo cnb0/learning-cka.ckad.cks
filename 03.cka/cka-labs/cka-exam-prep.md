@@ -219,7 +219,7 @@ Show what is the latest version to upgrade:
 - kubeadm upgrade plan
 
 ### Steps to start node upgrade:
-
+```
 1) drain existing node:
    kubectl drain master
 
@@ -258,7 +258,7 @@ Show what is the latest version to upgrade:
 18) kubectl uncordon node01
 	
 	ALL UPGRADED
-	
+```	
 ## ETCD
 
 ### ETCD Cluster
