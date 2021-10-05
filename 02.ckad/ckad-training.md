@@ -1,38 +1,42 @@
 ### Certified Kubernetes Application Developer Crash Course (CKAD)
 
-The ability to use, troubleshoot, and monitor Kubernetes as an application developer is in high demand. 
-In response, the Cloud Native Computing Foundation (CNCF) developed the Certified Kubernetes Application Developer (CKAD) 
-program to establish credibility and value in the job market. The exam is different from the typical 
-multichoice format of other certifications.
- It’s completely performance based, under immense time pressure, and requires deep knowledge of the tasks.
+        The ability to use, troubleshoot, and monitor Kubernetes as an application developer is in high demand. 
+        In response, the Cloud Native Computing Foundation (CNCF) developed CKAD program to establish credibility 
+        and value in the job market. The exam is different from the typical multichoice format of other certifications.
+        It’s completely performance based, under immense time pressure, and requires deep knowledge of the tasks.
 
-CKAD Expert walks you through all the topics covered in the exam to fully prepare you to pass with flying colors.
+        CKAD Expert walks you through all the topics covered in the exam to fully prepare you to pass with flying 
+        colors.
 
 ### What you’ll learn and how you can apply it
 
-By the end of this live online course, you’ll understand:
+#### By the end of this live online course, you’ll understand:
 
-    When and how to apply Kubernetes concepts to manage an application
-    Objectives, abilities, and tips and tricks to pass the CKAD exam
-    The ins and outs of the kubectl command-line tool
-    And you’ll be able to:
+    - When and how to apply Kubernetes concepts to manage an application
+    - Objectives, abilities, and tips and tricks to pass the CKAD exam
+    - The ins and outs of the kubectl command-line tool
+    
+####  And you’ll be able to:
 
-    Demonstrate competency performing the responsibilities of Kubernetes application developers
-    Solve real-world Kubernetes problems in a hands-on command-line environment
-    Navigate and solve questions during the CKAD exam
+      Demonstrate competency performing the responsibilities of Kubernetes application developers
+      Solve real-world Kubernetes problems in a hands-on command-line environment
+      Navigate and solve questions during the CKAD exam
 
 
- This Training event is for you because…
+ #### This Training event is for you because…
+
     - You’re a developer using Kubernetes to configure, manage, and roll out applications.
     - You want to understand the basics of Kubernetes by solving hands-on problems.
     - You want to become a Certified Kubernetes Application Developer.
 
-    Prerequisites
-Experience with containers, particularly Docker
-A basic understanding of Kubernetes concepts and API resources
-Familiarity with a Unix environment, bash commands, and a command line-based text editor (optimally vim) and YAML
-A machine with access to a Kubernetes cluster, either local or remote 
-(The recommended setup is to install minikube and kubectl.)
+#### Prerequisites
+
+    - Experience with containers, particularly Docker
+    - A basic understanding of Kubernetes concepts and API resources
+    - Familiarity with a Unix environment, bash commands, and a command line-based text editor 
+      (optimally vim) and YAML
+    - A machine with access to a Kubernetes cluster, either local or remote 
+      (The recommended setup is to install minikube and kubectl.)
 
 
 
