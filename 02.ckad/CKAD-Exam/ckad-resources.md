@@ -468,8 +468,8 @@ The following are primarily links to either the 'concepts' or 'tasks' section of
 ### CRON
 - [Tasks -> Automated Tasks with Cron Jobs](https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/)
 - [Tasks -> Parallel Jobs with Expansions](https://kubernetes.io/docs/tasks/job/parallel-processing-expansion/)
-- [Tasks -> Course Parallel Processing with a Work Queue](https://kubernetes.io/docs/tasks/job/coarse-parallel-processing-work-queue/)
-- [Tasks -> Fine Parallel Processsing with a Work Queue](https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/)
+- [Tasks -> Course Parallel Processing with a Work   ](https://kubernetes.io/docs/tasks/job/coarse-parallel-processing-work-  /)
+- [Tasks -> Fine Parallel Processsing with a Work   ](https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-  /)
 
 ## State Persistence
 - [Concepts -> Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)

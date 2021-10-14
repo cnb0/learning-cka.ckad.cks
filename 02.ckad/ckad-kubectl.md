@@ -293,8 +293,8 @@ $ kubectl run nginx --image=nginx --restart=Never --dry-run=client -o yaml | kub
               - Tasks 
                  - Automated Tasks with Cron Jobs
                  - Parallel Jobs with Expansions
-                 - Course Parallel Processing with a Work Queue
-                 - Fine   Parallel Processsing with a Work Queue              
+                 - Course Parallel Processing with a Work   
+                 - Fine   Parallel Processsing with a Work                 
                            
               $ kubectl create cronjob busybox --image=busybox --schedule="*/1 * * * *" -- \ 
                  /bin/sh -c 'date; echo Hello from the Kubernetes cluster'
