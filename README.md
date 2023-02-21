@@ -1,4 +1,4 @@
-## learning-cka.ckad
+## learning-ckad.cka-cks
 
 
 ### k8s exam details
